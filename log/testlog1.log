@@ -1,0 +1,134 @@
+2022-01-10 15:33:16,129 [main] INFO Automation - Verifying HomePage url
+2022-01-10 15:33:21,269 [main] INFO Automation - Verifying homePage title
+2022-01-10 15:33:26,329 [main] INFO Automation - Validate Logo Image
+2022-01-10 15:39:13,674 [main] INFO Automation - Verifying HomePage url
+2022-01-10 15:39:20,014 [main] INFO Automation - Verifying homePage title
+2022-01-10 15:39:25,440 [main] INFO Automation - Validate Logo Image
+2022-01-10 15:40:12,868 [main] INFO Automation - Verifying HomePage url
+2022-01-10 15:40:18,187 [main] INFO Automation - Verifying homePage title
+2022-01-10 15:40:23,235 [main] INFO Automation - Validate Logo Image
+2022-01-10 16:13:54,773 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:14:19,761 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:17:16,007 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:18:55,988 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:28:49,601 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:31:21,992 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:35:14,809 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:35:41,998 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:36:37,440 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:38:33,700 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:38:53,026 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:39:46,083 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:40:41,573 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:56:50,059 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:57:48,950 [main] INFO Automation -  validate Price dropdown
+2022-01-10 16:58:32,463 [main] INFO Automation -  validate Price dropdown
+2022-01-10 17:04:25,788 [main] INFO Automation -  validate Price dropdown
+2022-01-10 17:06:49,704 [main] INFO Automation -  validate Price dropdown
+2022-01-10 17:08:52,782 [main] INFO Automation -  validate Price dropdown
+2022-01-10 17:35:23,867 [main] INFO Automation - Verifying HomePage url
+2022-01-10 17:35:29,623 [main] INFO Automation - Verifying homePage title
+2022-01-10 17:35:37,830 [main] INFO Automation - Validate Logo Image
+2022-01-10 17:35:43,507 [main] INFO Automation - searching from suggested search box
+2022-01-10 17:35:51,427 [main] INFO Automation - verify price pick
+2022-01-10 17:35:51,656 [main] INFO Automation - verify Area pick
+2022-01-10 17:35:51,855 [main] INFO Automation - verify category pick
+2022-01-10 17:35:52,210 [main] INFO Automation - verify search button
+2022-01-10 17:56:45,294 [main] INFO Automation - verify price pick
+2022-01-10 17:56:45,481 [main] INFO Automation - verify Area pick
+2022-01-10 17:56:45,687 [main] INFO Automation - verify category pick
+2022-01-10 17:56:46,058 [main] INFO Automation - verify search button
+2022-01-10 17:56:46,195 [main] INFO Automation - Successes to find results from the navbar search
+2022-01-10 17:57:03,593 [main] INFO Automation - Verifying HomePage url
+2022-01-10 17:57:09,027 [main] INFO Automation - Verifying homePage title
+2022-01-10 17:57:14,590 [main] INFO Automation - Validate Logo Image
+2022-01-10 17:57:20,311 [main] INFO Automation - searching gift from AutoComplete search box
+2022-01-10 17:57:26,080 [main] INFO Automation - verify price pick
+2022-01-10 17:57:26,265 [main] INFO Automation - verify Area pick
+2022-01-10 17:57:26,466 [main] INFO Automation - verify category pick
+2022-01-10 17:57:26,823 [main] INFO Automation - verify search button
+2022-01-10 17:57:26,964 [main] INFO Automation - Successes to find results from the navbar search
+2022-01-10 18:20:45,801 [main] INFO Automation - verify price pick
+2022-01-10 20:28:49,932 [main] INFO Automation - Verify if Error image is not display..
+2022-01-10 20:28:56,207 [main] INFO Automation - Verify header title is display..
+2022-01-10 20:29:02,233 [main] INFO Automation - Pick a Business Gift
+2022-01-10 20:31:03,060 [main] INFO Automation - Verify if Error image is not display..
+2022-01-10 20:31:18,631 [main] INFO Automation - Verify header title is display..
+2022-01-10 20:31:24,594 [main] INFO Automation - Pick a Business Gift
+2022-01-10 20:32:17,561 [main] INFO Automation - Pick a Business Gift
+2022-01-10 20:36:41,391 [main] INFO Automation - Pick a Business Gift
+2022-01-10 21:29:47,534 [main] INFO Automation - Verifying HomePage url
+2022-01-10 21:30:01,926 [main] INFO Automation - Verifying homePage title
+2022-01-10 21:30:07,109 [main] INFO Automation - Validate Logo Image
+2022-01-10 21:30:21,471 [main] INFO Automation - searching gift from AutoComplete search box
+2022-01-10 21:30:30,863 [main] INFO Automation - verify price pick
+2022-01-10 21:30:43,343 [main] INFO Automation - Validate URL address Response
+2022-01-10 21:30:55,214 [main] INFO Automation - Verify if Error image is not display..
+2022-01-10 21:31:03,677 [main] INFO Automation - Verify header title is display..
+2022-01-10 21:31:12,690 [main] INFO Automation - Pick a Business Gift
+2022-01-10 21:31:19,877 [main] INFO Automation - Validate Page main header
+2022-01-10 21:31:27,065 [main] INFO Automation - Validate Page Title
+2022-01-10 21:31:35,904 [main] INFO Automation - Verify Money Box
+2022-01-10 21:31:36,081 [main] INFO Automation - Found money box input 
+2022-01-10 21:31:36,144 [main] INFO Automation - Insert Money Success
+2022-01-10 21:31:36,267 [main] INFO Automation - Moved to WhoToSend Page
+2022-01-10 21:46:00,505 [main] INFO Automation - Verifying HomePage url
+2022-01-10 21:46:14,950 [main] INFO Automation - Verifying homePage title
+2022-01-10 21:46:22,821 [main] INFO Automation - Validate Logo Image
+2022-01-10 21:46:28,306 [main] INFO Automation - searching gift from AutoComplete search box
+2022-01-10 21:46:34,107 [main] INFO Automation - verify price pick
+2022-01-10 21:46:34,987 [main] INFO Automation - Successes to find results from the navbar search
+2022-01-10 21:46:41,387 [main] INFO Automation - Validate URL address Response
+2022-01-10 21:46:49,441 [main] INFO Automation - Verify if Error image is not display..
+2022-01-10 21:46:59,833 [main] INFO Automation - Verify header title is display..
+2022-01-10 21:47:06,972 [main] INFO Automation - Pick a Business Gift
+2022-01-10 21:47:17,527 [main] INFO Automation - Validate Page main header
+2022-01-10 21:47:27,827 [main] INFO Automation - Validate Page Title
+2022-01-10 21:47:35,544 [main] INFO Automation - Verify Money Box
+2022-01-10 21:47:35,964 [main] INFO Automation - Found money box input 
+2022-01-10 21:47:36,005 [main] INFO Automation - Insert Money Success
+2022-01-10 21:47:36,188 [main] INFO Automation - Moved to WhoToSend Page
+2022-01-11 14:20:35,570 [main] INFO Automation - Sending contact information
+2022-01-11 14:20:36,800 [main] INFO Automation - Succsses
+2022-01-11 14:54:30,078 [main] INFO Automation - Verifying HomePage url
+2022-01-11 14:54:35,406 [main] INFO Automation - Verifying homePage title
+2022-01-11 14:54:40,543 [main] INFO Automation - Validate Logo Image
+2022-01-11 14:54:45,687 [main] INFO Automation - searching gift from AutoComplete search box
+2022-01-11 14:54:51,179 [main] INFO Automation - verify price pick
+2022-01-11 14:54:52,124 [main] INFO Automation - Successes to find results from the navbar search
+2022-01-11 14:54:59,358 [main] INFO Automation - Validate URL address Response
+2022-01-11 14:55:05,667 [main] INFO Automation - Verify if Error image is not display..
+2022-01-11 14:55:11,994 [main] INFO Automation - Verify header title is display..
+2022-01-11 14:55:18,234 [main] INFO Automation - Pick a Business Gift
+2022-01-11 14:55:25,540 [main] INFO Automation - Validate Page main header
+2022-01-11 14:55:33,166 [main] INFO Automation - Validate Page Title
+2022-01-11 14:55:42,909 [main] INFO Automation - Verify Money Box
+2022-01-11 14:55:43,110 [main] INFO Automation - Found money box input 
+2022-01-11 14:55:43,290 [main] INFO Automation - Insert Money Success
+2022-01-11 14:55:43,290 [main] INFO Automation - Moved to WhoToSend Page
+2022-01-11 14:55:51,736 [main] INFO Automation - Send sender information...
+2022-01-11 14:55:59,270 [main] INFO Automation - Sending contact information
+2022-01-11 14:56:00,544 [main] INFO Automation - Successes
+2022-01-11 17:12:01,841 [main] INFO Automation - Verifying HomePage url
+2022-01-11 17:12:04,387 [main] INFO Automation - Verifying homePage title
+2022-01-11 18:51:05,203 [main] INFO Automation - Validate URL address Response
+2022-01-11 18:51:36,512 [main] INFO Automation - Validate Page main header
+2022-01-11 18:52:21,593 [main] INFO Automation - Verifying HomePage url
+2022-01-11 18:52:27,860 [main] INFO Automation - Verifying homePage title
+2022-01-11 18:52:32,359 [main] INFO Automation - Validate Logo Image
+2022-01-11 18:52:36,924 [main] INFO Automation - searching gift from AutoComplete search box
+2022-01-11 18:52:41,864 [main] INFO Automation - verify price pick
+2022-01-11 18:52:42,740 [main] INFO Automation - Successes to find results from the navbar search
+2022-01-11 18:52:54,434 [main] INFO Automation - Validate URL address Response
+2022-01-11 18:53:05,821 [main] INFO Automation - Verify if Error image is not display..
+2022-01-11 18:53:14,226 [main] INFO Automation - Verify header title is display..
+2022-01-11 18:53:19,669 [main] INFO Automation - Pick a Business Gift
+2022-01-11 18:53:29,362 [main] INFO Automation - Validate Page main header
+2022-01-11 18:53:38,173 [main] INFO Automation - Validate Page Title
+2022-01-11 18:53:44,435 [main] INFO Automation - Verify Money Box
+2022-01-11 18:53:44,591 [main] INFO Automation - Found money box input 
+2022-01-11 18:53:44,780 [main] INFO Automation - Insert Money Success
+2022-01-11 18:53:44,781 [main] INFO Automation - Moved to WhoToSend Page
+2022-01-11 18:53:58,131 [main] INFO Automation - Send sender information...
+2022-01-11 18:54:06,122 [main] INFO Automation - Sending contact information
+2022-01-11 18:54:07,471 [main] INFO Automation - Successes

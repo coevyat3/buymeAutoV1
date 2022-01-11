@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 130.859 s <<< FAILURE! - in TestSuite
+GiftCardPageTest.validatePageTitle  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at GiftCardPageTest.validatePageTitle(GiftCardPageTest.java:35)
+

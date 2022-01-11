@@ -1,0 +1,8 @@
+buyme\pageObjects\HowToSendPage.class
+buyme\pageObjects\HomePage.class
+buyme\pageObjects\WhoToSendPage.class
+buyme\base\BaseClass.class
+buyme\pageObjects\SearchResultPage.class
+buyme\utilities\Constants.class
+buyme\pageObjects\GiftCardPage.class
+buyme\pageObjects\LoginPage.class

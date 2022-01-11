@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="browser" value="chrome"></parameter>
+    <parameter name="URL" value="https://buyme.co.il/"></parameter>
+    <test verbose="2" preserve-order="true" name="C:/Users/coevy/IdeaProjects/BuymeAutoV">
+        <classes>
+            <class name="HomePageTest"></class>
+            <class name="SearchResultPageTest"></class>
+            <class name="GiftCardPageTest"></class>
+            <class name="HowToSendPageTest"></class>
+            <class name="WhoToSendPageTest"></class>
+            <class name="LoginPageTest"></class>
+
+        </classes>
+    </test>
+</suite>
