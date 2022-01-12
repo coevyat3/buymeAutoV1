@@ -1,8 +1,11 @@
 buyme\pageObjects\HowToSendPage.class
+buyme\utilities\UserData.class
+buyme\utilities\Xls_Reader.class
 buyme\pageObjects\HomePage.class
 buyme\pageObjects\WhoToSendPage.class
 buyme\base\BaseClass.class
 buyme\pageObjects\SearchResultPage.class
 buyme\utilities\Constants.class
 buyme\pageObjects\GiftCardPage.class
+buyme\utilities\HtmlReporter.class
 buyme\pageObjects\LoginPage.class

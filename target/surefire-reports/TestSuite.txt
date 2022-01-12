@@ -1,8 +1,22 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 15, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 130.859 s <<< FAILURE! - in TestSuite
-GiftCardPageTest.validatePageTitle  Time elapsed: 0.01 s  <<< FAILURE!
+Tests run: 17, Failures: 2, Errors: 0, Skipped: 2, Time elapsed: 91.706 s <<< FAILURE! - in TestSuite
+GiftCardPageTest.checkHeaderTitle  Time elapsed: 0.171 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at GiftCardPageTest.validatePageTitle(GiftCardPageTest.java:35)
+	at GiftCardPageTest.checkHeaderTitle(GiftCardPageTest.java:30)
+
+GiftCardPageTest.setup  Time elapsed: 6.038 s  <<< FAILURE!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: headless chrome=97.0.4692.71)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'EVYATAR', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [923dbca0dd11342787d2240bd5c5eb90, clickElement {id=b0e8e074-b10e-4b87-9220-399a6a6d6cd7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\coevy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49874}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49874/devtoo..., se:cdpVersion: 97.0.4692.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (923dbca0dd11342787d2240bd5c5eb90)] -> css selector: .selected-text]
+Session ID: 923dbca0dd11342787d2240bd5c5eb90
+	at GiftCardPageTest.setup(GiftCardPageTest.java:24)
 

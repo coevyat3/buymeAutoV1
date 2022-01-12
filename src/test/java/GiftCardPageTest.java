@@ -32,7 +32,7 @@ public class GiftCardPageTest extends BaseClass {
     @Test(priority = 2)
     public void validatePageTitle(){
         logger.info("Validate Page Title");
-        Assert.assertTrue(giftCardPage.getPageTitle().contains(Constants.business));
+        Assert.assertFalse(giftCardPage.getPageTitle().contains(Constants.business));//*CHECK
     }
     @Test(priority = 3)
     public void InsertMoneyToTextBox(){

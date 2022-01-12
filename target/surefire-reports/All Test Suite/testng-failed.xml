@@ -3,13 +3,17 @@
 <suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <parameter name="browser" value="chrome"/>
   <parameter name="URL" value="https://buyme.co.il/"/>
+  <listeners>
+    <listener class-name="buyme.utilities.HtmlReporter"/>
+  </listeners>
   <test thread-count="5" name="C:/Users/coevy/IdeaProjects/BuymeAutoV(failed)" verbose="0">
     <classes>
       <class name="GiftCardPageTest">
         <methods>
           <include name="tearDown"/>
+          <include name="InsertMoneyToTextBox"/>
           <include name="setup"/>
-          <include name="validatePageTitle"/>
+          <include name="checkHeaderTitle"/>
         </methods>
       </class> <!-- GiftCardPageTest -->
     </classes>

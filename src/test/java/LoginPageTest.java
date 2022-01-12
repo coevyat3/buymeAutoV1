@@ -2,9 +2,12 @@ import buyme.base.BaseClass;
 import buyme.pageObjects.*;
 import buyme.utilities.Constants;
 
+import buyme.utilities.UserData;
 import org.testng.annotations.*;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Iterator;
 
 
 public class LoginPageTest extends BaseClass {
@@ -36,12 +39,9 @@ public class LoginPageTest extends BaseClass {
 
     }
     @DataProvider(name="A")
-    public Object[][] getData() throws IOException {
-        Object data[][] = {
-                {"a1b1c1d1@xyz.com", "a1b1c1d1X"}
-        };
-
-        return data;
+    public Iterator<Object[]> getData()  {
+        ArrayList<Object[]>data =  UserData.getLoginData();
+        return data.iterator();
     }
 
     @AfterMethod

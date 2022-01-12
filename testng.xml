@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
+
+<listeners>
+    <listener class-name="buyme.utilities.HtmlReporter"></listener>
+</listeners>
     <parameter name="browser" value="chrome"></parameter>
     <parameter name="URL" value="https://buyme.co.il/"></parameter>
     <test verbose="2" preserve-order="true" name="C:/Users/coevy/IdeaProjects/BuymeAutoV">
@@ -10,7 +14,9 @@
             <class name="GiftCardPageTest"></class>
             <class name="HowToSendPageTest"></class>
             <class name="WhoToSendPageTest"></class>
-            <class name="LoginPageTest"></class>
+             <class name="LoginPageTest">
+
+            </class>
 
         </classes>
     </test>
